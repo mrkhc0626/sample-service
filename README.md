@@ -1,6 +1,6 @@
 ### Documentation
 
-Node version please use 10.24.1
+Node version please use >= 14.17.3 
 
 Working on the readme...
 
