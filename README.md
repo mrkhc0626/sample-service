@@ -10,3 +10,17 @@ Working on the readme...
 npm install --save ts-node
 npm install
 ```
+
+### How to Run
+
+Debug on Server
+
+```
+npm run start:live
+```
+
+Deploy to Docket
+
+```
+npm run start
+```
